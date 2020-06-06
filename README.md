@@ -73,3 +73,17 @@ Here's an example of the full list of keys in a story:
 }
 ```
 
+If you want to run this code on your computer, I would have to install Anaconda environment and Jupyter notebook.
+
+
+Here are the instructions after you have both of them installed:
+
+1. Download all the files on your computer
+2. Find the downloaded Source folder in Finder (MacOS) or My Computer (Windows)
+3. Right click on folder and open it in terminal
+4. Run the command in terminal 
+```
+$ jupyter notebook
+```
+
+5. Open the main.ipynb file and run the cell
